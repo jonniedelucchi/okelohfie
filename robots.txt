@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaichiowu.zaalgielinggroessen.nl/sitemap.xml
